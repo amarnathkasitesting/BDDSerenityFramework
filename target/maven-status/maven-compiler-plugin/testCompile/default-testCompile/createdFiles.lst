@@ -1,0 +1,16 @@
+webelements\HandlingCheckboxes.class
+webelements\UploadingFileTest.class
+webelements\HandlingResizable.class
+webelements\HandlingWebTables.class
+testcases\GmailTest.class
+webelements\HandlingMouseOver.class
+testcases\SerenityGmailTest.class
+webelements\HandlingSlider.class
+webelements\HandlingLinks.class
+webelements\HandlingRightClick.class
+testcases\LoginTest.class
+webelements\HandlingDropdowns.class
+webelements\HandlingTabsandPopups.class
+webelements\HandlingAlert.class
+webelements\HandlingTryIt.class
+webelements\HandlingDragandDrop.class

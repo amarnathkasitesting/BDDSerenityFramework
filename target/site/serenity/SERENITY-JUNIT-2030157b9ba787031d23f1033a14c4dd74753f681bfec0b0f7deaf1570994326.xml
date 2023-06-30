@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="testcases.LoginTest" skipped="0" tests="1" time="0.42" timestamp="2023-06-29 10:41:51"><testcase classname="testcases.LoginTest" name="Executing Login Test"><error message="WebDriver was unable to create a new instance of type class org.openqa.selenium.firefox.FirefoxDriver&#13;&#10;WebDriver reported the following message: The driver executable must exist: E:\SerenityBDDFramework-Complete\SerenityBDDFramework\src\test\resources\drivers\geckodriver.exe&#13;&#10;See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">WebDriver was unable to create a new instance of type class org.openqa.selenium.firefox.FirefoxDriver&#13;
+WebDriver reported the following message: The driver executable must exist: E:\SerenityBDDFramework-Complete\SerenityBDDFramework\src\test\resources\drivers\geckodriver.exe&#13;
+See below for more details.</error><system-err>WebDriver was unable to create a new instance of type class org.openqa.selenium.firefox.FirefoxDriver&#13;
+WebDriver reported the following message: The driver executable must exist: E:\SerenityBDDFramework-Complete\SerenityBDDFramework\src\test\resources\drivers\geckodriver.exe&#13;
+See below for more details.&#13;
+testcases.LoginTest.doLogin(LoginTest.java:31)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
